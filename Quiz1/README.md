@@ -2,43 +2,32 @@
 
 A clean and modern **Weather App** built using **React Native with Expo Go**, fetching **real-time weather data** using the **OpenWeatherMap API**. Enter any city and get live weather updates including temperature, condition, and weather icon.
 
+---
+
 ## 📺 Watch the Full Demo on YouTube
 
-👉 [Watch the video here](https://youtube.com/shorts/PCViIloK--k?feature=share)  
-📌 Don’t forget to **like**, **comment**, and **subscribe** if you find it helpful!
+👉 [Watch the video here](https://youtube.com/shorts/EfIrOavmXok?si=7by8fdB9mgHrCf22)  
 
 ---
 
-## 📱 Scan the QR Code to Try It Out
+## 📱 Try It Instantly on Your Device
 
-Scan the QR code below using the **Expo Go app** on your mobile device to run the app instantly:
+Scan the QR code below using the **Expo Go app** on your smartphone:
 
-![Scan with Expo Go](task_q1_code.png)
-
----
-
-## 🚀 Features
-
-- 🌍 Get live weather updates for any city
-- 🔍 Search bar for dynamic city input
-- 🌡️ Display temperature, weather conditions, and icons
-- 📱 Built with React Native & Expo for smooth performance
-- 💡 Beginner-friendly code with clear structure
+<p align="center">
+  <img src="task_q1_code.png" alt="Scan with Expo Go" width="200"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-
-- **React Native** (via Expo)
-- **OpenWeatherMap API**
-- **JavaScript (ES6)**
-- **Fetch API**
 
 ---
 
-## 📦 Installation & Setup
+## 📦 Getting Started
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/weather-app-react-native.git
-   cd weather-app-react-native;
+Follow these simple steps to set up the project locally:
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/A4Asfar/weather-app-react-native.git
+cd weather-app-react-native
