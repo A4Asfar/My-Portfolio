@@ -2,7 +2,6 @@
 
 A sleek and responsive **Food Delivery App** built with **React Native** using **Expo**. This project integrates with the **Yelp API** to fetch real restaurant data and provide a real-world delivery app experience. It includes a Home screen, Order Details, and Order History features—perfect for learning or building on top of food ordering experiences.
 
-![React Na
 ---
 
 ## ✨ Features
