@@ -3,12 +3,6 @@
 
 A beautifully designed **eCommerce mobile app** built with **React Native** using **Expo**. This app provides a seamless shopping experience for users—complete with login, product listings, product detail views, and a cart screen. Ideal as a starter template for any mobile commerce project.
 
-![React Native](https://img.shields.io/badge/React_Native-v0.73.0-blue.svg?style=flat&logo=react)
-![Expo](https://img.shields.io/badge/Expo-49.0.0-black.svg?style=flat&logo=expo)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
----
-
 ## ✨ Features
 
 - 🔐 **Login Screen** – Secure user login interface.
