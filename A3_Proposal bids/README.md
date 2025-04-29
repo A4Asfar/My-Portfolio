@@ -4,7 +4,6 @@ Despite submitting multiple high-quality proposals on **Freelancer**, **Guru**, 
 
 If you're a **client looking for a skilled, consistent, and proactive developer**, this is what I can bring to the table.
 
-'s Work Together
 
 If you're a client or recruiter browsing this, I’d love to work with you! I bring passion, precision, and a collaborative mindset.
 
