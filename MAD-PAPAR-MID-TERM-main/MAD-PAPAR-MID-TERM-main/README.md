@@ -44,7 +44,7 @@ expo start
 ## 🎥 Demo
 
 Watch the full demo here:  
-🔗 [YouTube Short](https://youtube.com/shorts/Y93-si7HlGQ?feature=share)
+🔗 [YouTube Short](https://youtu.be/rN0lW8vl0_8)
 
 
 
